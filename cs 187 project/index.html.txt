@@ -1,0 +1,71 @@
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a href="https://twitter.com/umassboston">Twitter</a></li>
+  <li><a href="https://www.umb.edu/news_events_media/news">News</a></li>
+  <li><a href="https://www.instagram.com/umassboston/">Instagram</a></li>
+  <li><a href="https://www.youtube.com/user/umassboston">Youtube</a></li>
+</ul>
+
+
+<header class="w3-container w3-red w3-center" style="padding:50px 16px">
+  <h1 class="w3-margin w3-jumbo">Welcome!</h1>
+  <p class="w3-xlarge">CS187 Final Project</p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<i class="material-icons">computer</i>
+</header>
+
+<h2>What is this website?</h2>
+<p>The idea behind the website is that it's for my CS187 Final Project.</p>
+<p>In this project I get to showcase my skills when creating a website. I hope this website pleases you well.</p>
+<p>  Get to know me more! <p>
+
+
+<section>
+  <nav>
+    <ul> 
+      <li><a href="https://github.com/">Github</a></li>           
+      <li><a href="https://twitter.com/linustech/status/1198869717399654400">Photo of linus</a></li>
+      <li><a href="https://umb.umassonline.net">Blackboard</a></li>
+      <li><a href="https://www.umb.edu/">UMB Website </a></li>
+    </ul>
+ 
+ </nav>
+  <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
+    </div>
+
+
+    <h style="font-size:120%; ">
+      <h1> What I learned from this course. </h1>
+      <p class="w3-text-grey"> As I reflect on what I have learned in this class and what I will take with me when the class is over, I realize that the final grade was no longer the objective that I was striving so hard for. What really matters is what I have learned while on this particular journey. Recently, I took some time alone to think of this course and to reflect on how it changed my identity as a college student. When I first started this course I looked at it differently compared to how I look at it now. But after learning all these new ideas I’ve expanded my knowledge and now I feel like I have a good understanding on what html, css, and other ideas are like that was brought up in CS187. I May glance at machineces and see how they were constructed and reflect on how ideas in CS187 affects us on a day to day basis and in our future. As well sometimes experience ideas from CS187 with us not even realizing it. So now when I step outside into the outdoors I now look into the world in a different view. In the beginning of the semester when I started this class, my major goal was to get a good grade as well as to improve as a CS major, but perhaps what I have come to realize is that the grade is not as important as the discovery of who I am as a person- and that has made all the difference. </p>
+</div>
+
+<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+    <h1 class="w3-margin w3-xlarge">The Objective Behind CS
+    </h1>
+</div>
+
+
+<footer class="w3-container w3-padding-64 w3-center w3-opacity">  
+  <div class="w3-xlarge w3-padding-32">
+
+  
+ </div>
+ <h style="font-size:120%; ">
+  <p>  This Freshman Seminar Course, in the College of Science and Mathematics, is organized along a theme of inquiry-based learning for students and faculty. Each participant has a role in understanding topics that are prevalent in the scientific community along with developing new information that might form the basic science investments of the future. Students will be co-developers of this freshman seminar series that will be based primarily on inquiry-based science education. Desired outcomes will focus on students’ developing discovery skills, becoming self-driven learners, learning to work in groups, and being successful at the university. This course will maximize students’ potential for success in the university and the scientific community. </p>
+</footer>
+  <article>
+    <h style="font-size:150%; ">
+    <h1>Get to know me!</h1>
+    <p>Hi my name is Hassan Houjazy and this is one of the very first projects I created in CS187.  </p>
+    <h style="font-size:100%; ">
+    <p>I love to play sports, workout, learn, play games, and lastly crafting ideas and things. My favorite sports are soccer and track. For soccer I used to play for the highschool as mainly a striker but there are also times where I played as a winger. I also ran track as a middle distance runner and It was enjoyable. Running track takes time and effort to learn. There are techniques when it comes down to running whether it be a realy or in an individual race. My favorite genre of games are mainly FPS, Indie, and multiplayer. I also make items out of wood for example I like making chairs and other sorts of conventional items. 
+</p>
+</body>
+</html>
